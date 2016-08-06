@@ -1,11 +1,9 @@
 ---
-datePublished: '2016-08-06T05:34:36.386Z'
+datePublished: '2016-08-06T05:41:58.170Z'
 sourcePath: _posts/2016-04-16-y-3-launches-y-3-sport.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/style/y3-yohji-yamamoto-adidas-launches-sportswear-ss16
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - y-3
   - yamamoto
@@ -21,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-06T05:34:31.177Z'
+dateModified: '2016-08-06T05:41:57.290Z'
 title: Y-3 Launches Y-3 Sport
 app_links: []
 publisher:
@@ -39,6 +37,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: y-3-launches-y-3-sport/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
