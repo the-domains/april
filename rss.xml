@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[APRIL]]></title>
-        <description><![CDATA[APRIL]]></description>
+        <title><![CDATA[A P R I L]]></title>
+        <description><![CDATA[A P R I L]]></description>
         <link>https://thegrid.ai/april/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Aug 2016 05:34:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2016 05:42:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/april/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Massimo Vignelli's Signed 2012 NYC Subway Diagram]]></title>
@@ -12,6 +12,13 @@
             <link>http://www.coolhunting.com/design/massimo-vignelli-2012-nyc-subway-signed-poster</link>
             <guid isPermaLink="false">db2787d6-5ee3-4371-902b-612402e375a5</guid>
             <pubDate>Sat, 06 Aug 2016 05:34:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Y-3 Launches Y-3 Sport]]></title>
+            <description><![CDATA[<article><h1>Y-3 Launches Y-3 Sport</h1><p>Though Y-3 is a beautiful collaboration between avant-garde Japanese designer Yohji Yamamoto and global sportswear brand adidas, surprisingly, it's always been a fashion-first line. After 15 years, Yamamoto has thought it the proper time to go deep into Y-3's DNA and design its first-ever fully functional sport line.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ad461f62031730d604252b2e606f50cc4dbdcd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/april/y-3-launches-y-3-sport/index.html</link>
+            <guid isPermaLink="false">9aec3bc7-2391-446c-80ac-ffbecec2572e</guid>
+            <pubDate>Sat, 06 Aug 2016 05:41:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Design Indaba 2016: Interview With Jaime Hayon]]></title>
@@ -46,13 +53,6 @@
             <description><![CDATA[<article><h1>Why Tesla Will Destroy the Automobile Industry</h1><p>If there's an example of a company about to disruptively innovate an entire industry, it's Tesla. Partly, this is because of raw technology--Tesla's is clearly superior to that of its competitors. Partly, it's because Tesla has a more efficient business model. As Slate recently pointed out, Tesla bypasses value-subtracting dealer franchises and universally disliked car salespeople.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/967786c4c9a099ae3d4e342800c9901098d0268b.jpg"></article>]]></description>
             <link>http://www.inc.com/geoffrey-james/why-tesla-will-destroy-the-automobile-industry.html?cid=sf01002&amp;sr_share=facebook</link>
             <guid isPermaLink="false">73d55576-74d7-40c6-b6d8-99903e92cec9</guid>
-            <pubDate>Sat, 06 Aug 2016 05:34:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Y-3 Launches Y-3 Sport]]></title>
-            <description><![CDATA[<article><h1>Y-3 Launches Y-3 Sport</h1><p>Though Y-3 is a beautiful collaboration between avant-garde Japanese designer Yohji Yamamoto and global sportswear brand adidas, surprisingly, it's always been a fashion-first line. After 15 years, Yamamoto has thought it the proper time to go deep into Y-3's DNA and design its first-ever fully functional sport line.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37ad461f62031730d604252b2e606f50cc4dbdcd.jpg"></article>]]></description>
-            <link>http://www.coolhunting.com/style/y3-yohji-yamamoto-adidas-launches-sportswear-ss16</link>
-            <guid isPermaLink="false">9aec3bc7-2391-446c-80ac-ffbecec2572e</guid>
             <pubDate>Sat, 06 Aug 2016 05:34:36 GMT</pubDate>
         </item>
     </channel>
